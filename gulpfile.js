@@ -2,7 +2,6 @@
 var gulp = require('gulp');
 var browserSync=require('browser-sync').create();
 var eslint=require('gulp-eslint');
-var jasmine=require('gulp-jasmine-phantom');
 
 gulp.task('default',['lint'],defaultTask);
 function defaultTask(done) {
