@@ -1,0 +1,24 @@
+{
+  "name": "feedreader-danglisheng",
+  "version": "1.0.0",
+  "description": "\"# feed-reader\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danglisheng/feed-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danglisheng/feed-reader/issues"
+  },
+  "homepage": "https://github.com/danglisheng/feed-reader#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.2"
+  }
+}
